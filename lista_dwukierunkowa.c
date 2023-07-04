@@ -32,7 +32,7 @@ main()
 		printf("\nd - dodac");
 		printf("\ns - szukac");
 		printf("\nu - usunac");
-		printf("\no – odwrocic liste");
+		printf("\no â€“ odwrocic liste");
 		printf("\nw - wyswietlic");
 		printf("\nq - wyjsc\n");
 		fflush(stdin);
